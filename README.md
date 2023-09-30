@@ -1,8 +1,6 @@
 # Loan Sanction Amount Prediction
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/Nishint0001/LoanSanctionAmountPrediction)
-![GitHub issues](https://img.shields.io/github/issues-raw/Nishint0001/LoanSanctionAmountPrediction)
-![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/Nishint0001/LoanSanctionAmountPrediction)
 
 An open-source project for predicting loan sanction amounts using machine learning techniques.
 
