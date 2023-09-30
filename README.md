@@ -6,6 +6,8 @@
 
 An open-source project for predicting loan sanction amounts using machine learning techniques.
 
+![Startup Image](https://daxg39y63pxwu.cloudfront.net/images/blog/loan-prediction-using-machine-learning-project-source-code/Loan_Prediction_using__Machine_Learning_Project.png)
+
 ## Table of Contents
 
 - [About](#about)
