@@ -5,8 +5,6 @@
 An open-source project for predicting loan sanction amounts using machine learning techniques.
 
 ![Startup Image](https://bharatblogger.in/wp-content/uploads/2022/05/Top-5-Safe-Loan-Provider-In-America-2022.png)
-![Startup Image](https://5.imimg.com/data5/SELLER/Default/2020/12/UK/YT/QD/118938604/personal-loan-service-500x500.jpg)
-![Startup Image](https://daxg39y63pxwu.cloudfront.net/images/blog/loan-prediction-using-machine-learning-project-source-code/Loan_Prediction_using__Machine_Learning_Project.png)
 
 ## Table of Contents
 
